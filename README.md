@@ -1,5 +1,5 @@
 <!-- Encabezado animado -->
-<h1 align="center">👋 Hola, soy Fabio Ávila</h1>
+<h1 align="center">👋 Hola, soy Fabinho</h1>
 <h3 align="center">Desarrollador de Software · Analista QA</h3>
 
 <p align="center">
