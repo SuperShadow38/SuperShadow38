@@ -63,6 +63,7 @@ Me enfoco en entregar soluciones eficientes, mantener código limpio y garantiza
 ---
 
 ## 💼 Experiencia
+🔸 **Ingeniero QA – ILUM S.A (2025-2026)**  
 🔸 **Desarrollador Oracle – Sipecom S.A (2025)**  
 🔸 **QA Tester – Gizlo (2024–2025)**  
 🔸 **Ingeniero de Proyectos – Sudamericana de Software (2023–2024)**  
