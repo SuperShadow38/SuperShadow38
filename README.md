@@ -72,8 +72,8 @@ Me enfoco en entregar soluciones eficientes, mantener código limpio y garantiza
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuperShadow38&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperShadow38&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SuperShadow38" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperShadow38" height="165"/>
 </p>
 
 ---
